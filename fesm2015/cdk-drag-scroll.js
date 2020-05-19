@@ -393,7 +393,7 @@ class DragScrollDirective {
         () => {
             /** @type {?} */
             const dropListRef = this.getDropListRef();
-            dropListRef._cacheOwnPosition();
+           // dropListRef._cacheOwnPosition();
             this.addDebugInfo();
         }));
         // fix for issue when classes is not resetted
@@ -447,7 +447,7 @@ class DragScrollDirective {
     adjustContainers() {
         /** @type {?} */
         const dropListRef = this.getDropListRef();
-        dropListRef._cacheOwnPosition();
+        //dropListRef._cacheOwnPosition();
         dropListRef._siblings.forEach((/**
          * @param {?} sibling
          * @return {?}
