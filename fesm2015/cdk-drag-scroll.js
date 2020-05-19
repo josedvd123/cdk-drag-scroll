@@ -453,7 +453,7 @@ class DragScrollDirective {
          * @return {?}
          */
         sibling => {
-            sibling._cacheOwnPosition();
+//             sibling._cacheOwnPosition();
         }));
     }
     /**
