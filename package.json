@@ -1,0 +1,56 @@
+{
+  "_from": "cdk-drag-scroll",
+  "_id": "cdk-drag-scroll@0.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-yPQ7sCOuo+2QmidAiXjaGsHMu7a0hK8D03DU9vsc/K6IMt6qyG93EVE8WzEO+AQqocJcltfyZ6BSg69llcRJyg==",
+  "_location": "/cdk-drag-scroll",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cdk-drag-scroll",
+    "name": "cdk-drag-scroll",
+    "escapedName": "cdk-drag-scroll",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cdk-drag-scroll/-/cdk-drag-scroll-0.0.6.tgz",
+  "_shasum": "32e36a32a321f4a2fdf3742666e299449bbd5c61",
+  "_spec": "cdk-drag-scroll",
+  "_where": "C:\\Users\\Jose David\\Projects\\metronic_v7.0.1\\theme\\angular\\demo1",
+  "bugs": {
+    "url": "https://github.com/volser/cdk-drag-scroll/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "es2015": "fesm2015/cdk-drag-scroll.js",
+  "esm2015": "esm2015/cdk-drag-scroll.js",
+  "esm5": "esm5/cdk-drag-scroll.js",
+  "fesm2015": "fesm2015/cdk-drag-scroll.js",
+  "fesm5": "fesm5/cdk-drag-scroll.js",
+  "homepage": "https://github.com/volser/cdk-drag-scroll#readme",
+  "main": "bundles/cdk-drag-scroll.umd.js",
+  "metadata": "cdk-drag-scroll.metadata.json",
+  "module": "fesm5/cdk-drag-scroll.js",
+  "name": "cdk-drag-scroll",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "@angular/cdk": "^7.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volser/cdk-drag-scroll.git"
+  },
+  "sideEffects": false,
+  "typings": "cdk-drag-scroll.d.ts",
+  "version": "0.0.6"
+}
